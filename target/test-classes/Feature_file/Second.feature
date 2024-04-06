@@ -5,7 +5,7 @@ Feature: Bookcart application demo
     When pass the url of webpage
     Then home page displayed
 
-  # I want to use this template for my feature file
+  # I want to use this template for my feature file ..
   @smoke @sanity
   Scenario Outline: Login should be success
     Given User should navigate the application
